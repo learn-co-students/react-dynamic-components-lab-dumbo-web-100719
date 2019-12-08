@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import Comment from './Comment'
 import BlogPost from './BlogPost.js'
 import ColorBox from './ColorBox.js'
 
