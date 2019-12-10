@@ -34,5 +34,20 @@
     "enzyme-adapter-react-16": "^1.1.1",
     "mocha": "^5.2.0",
     "sinon": "^6.1.0"
-  }
+  },
+  "description": "## Objectives",
+  "main": "npm install",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuriyberezskyy/react-dynamic-components-lab-dumbo-web-100719.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yuriyberezskyy/react-dynamic-components-lab-dumbo-web-100719/issues"
+  },
+  "homepage": "https://github.com/yuriyberezskyy/react-dynamic-components-lab-dumbo-web-100719#readme"
 }
